@@ -13,7 +13,7 @@ html{
   }
  .title{
     height: 154px;
-    background-image: url(/csd/BioWebsite-Chris_Vasquez/images/Untitled-1.png);
+    background-image: url(./images/Untitled-1.png);
     width: auto;
     align-content: center;
  }
@@ -37,6 +37,31 @@ h2{
 .imgmap{
     padding-left: 33%;
     
+}
+.item-pic1-1 {
+    padding-right: 25px;
+    padding-left: 25px;
+    float: left;
+}
+.item-pic1-2 {
+    padding-right: 25px;
+    padding-left: 25px;
+    float: none;
+}
+.item-pic1-3 {
+    padding-right: 25px;
+    padding-left: 25px;
+    float: right;
+}
+.item-pic1-4 {
+    padding-right: 25px;
+    padding-left: 25px;
+    float: left;
+}
+.item-pic1-5 {
+    padding-right: 25px;
+    padding-left: 25px;
+    float: right;
 }
 .pic1{
     padding-right: 55px;
@@ -84,7 +109,7 @@ ul{
     padding-right: 5%;
     grid-column-start: 1;
     grid-column-end: 1;
-    float: left;
+    float: right;
 }
 .item-pic4{
     padding-right: 5%;
@@ -127,3 +152,11 @@ ul{
 .navbar a {
     color: black;
 }
+.second{
+    padding-bottom: 10%;
+}
+.footer{
+    padding-top: 25%;
+    width: auto;
+    align-content: center;
+ }

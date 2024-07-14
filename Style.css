@@ -54,14 +54,14 @@ h2{
     float: right;
 }
 .item-pic1-4 {
-    padding-right: 25px;
-    padding-left: 25px;
+    padding-right: 15px;
+    padding-left: 15px;
     float: left;
 }
 .item-pic1-5 {
-    padding-right: 25px;
-    padding-left: 25px;
-    float: right;
+    padding-right: 15px;
+    padding-left: 15px;
+    float: left;
 }
 .pic1{
     padding-right: 55px;
@@ -144,10 +144,12 @@ ul{
     float: left;
 }
 .navbar {
-    padding-top: 15px;
+    padding-top: 8px;
     overflow: hidden;
     text-align: center;
     font-family: "BhuTuka Expanded One", serif;
+    text-decoration-color: black;
+    font-weight: bold;
 }
 .navbar a {
     color: black;
